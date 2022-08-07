@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://i.gifer.com/embedded/download/6N3o.gif" width="100"/>
-</div>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 
 <h1 align="center">Hi Developers 👋, I'm Aman Kumar Sahani</h1>
 <h2 align="center">A Passionate Full Stack Web Developer from India</h3>
