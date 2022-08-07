@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://i.gifer.com/embedded/download/6N3o.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi Developers 👋, I'm Aman Kumar Sahani</h1>
 <h2 align="center">A Passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
