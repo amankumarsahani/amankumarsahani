@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-
+<img src="https://www.sherpadesk.com/hubfs/Blog%20Images/Dev%20Corner%20-%20Mobile%20App%20Updates%202/Dev-corner2_Featured-img.gif" width="100" alt="Developer">
 <h1 align="center">Hi Developers 👋, I'm Aman Kumar Sahani</h1>
 <h2 align="center">A Passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
